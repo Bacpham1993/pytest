@@ -1,0 +1,9 @@
+{
+  "polls/test_user_account.py::test_user_count": true,
+  "polls/test_views.py": true,
+  "polls/tests.py::test_group_letter": true,
+  "polls/tests.py::test_with_client": true,
+  "polls/views.py::test_group_letter": true,
+  "polls/views.py::test_hello_world": true,
+  "polls/views.py::test_user_count": true
+}
